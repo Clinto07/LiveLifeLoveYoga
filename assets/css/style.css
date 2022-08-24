@@ -122,12 +122,54 @@ h1, h2 {
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: blue;
+    background-color: grey;
 }
 
 #right-about {
     padding-top: 30px;
     width: 50%;
     float: right;
-    background-color: green;
+    background-color: grey;
+}
+
+hr {
+    border-top: 1px solid goldenrod;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 40px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.left-about-heading h2 {
+    text-align: center;
+}
+
+.left-about-heading p {
+    text-align: center;
+}
+
+.right-about-heading {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 40px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: center;
+}
+
+.right-about-heading p {
+    text-align: center;
+}
+
+#welcome {
+    text-align: center;
 }
