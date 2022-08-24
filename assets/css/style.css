@@ -4,10 +4,24 @@
     margin: 0;
     padding: 0;
     border: none;
-
 }
 
 body {
     font-family: oswald, sans-serif;
     font-weight: 300;
+    color:gold
+}
+
+/* Heading and Logo */
+
+h1, h2 {
+    font-family: cardo, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:goldenrod
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
