@@ -181,6 +181,10 @@ hr {
 
 /* Form */
 
+#sign-up {
+    text-align: center;
+}
+
 .form-section {
     clear: left;
     background: url('../images/signup\ yoga.jpg');
