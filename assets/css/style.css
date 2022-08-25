@@ -434,7 +434,7 @@ footer {
 
     #club-ethos {
         width: 90%;
-        height: 1200px;
+        height: 500px;
         margin: 0 auto;
     }
 
@@ -454,5 +454,25 @@ footer {
 
     #photos {
         column-count: 3;
+    }
+
+    #class {
+        width: 90%;
+        height: 750px;
+        margin: 0 auto;
+    }
+
+    .beginners-times-heading, .advanced-times-heading, .intermediate-times-heading {
+        width: inherit;
+    }
+
+    .beginners-times-heading h2, .advanced-times-heading h2, .intermediate-times-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .beginners-times-heading table, .advanced-times-heading table, .intermediate-times-heading table, {
+        text-align: center;
+        padding: 0 20px;
     }
 }
