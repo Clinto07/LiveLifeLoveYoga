@@ -20,13 +20,13 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="index.html" class="active">Contact Us</a>
+                    <a href="#contact-us">Contact Us</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Class Times</a>
+                    <a href="#form-section">Signup</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Signup</a>
+                    <a href="#class-times">Class Times</a>
                 </li>
                 <li>
                     <a href="index.html" class="active">Home</a>
@@ -70,19 +70,9 @@
             </div>
         </div>
     </section>
-    <section class="form-section">
-        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
-            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
-            <label for="fname">First Name</label>
-            <input id="fname" class="text-input" type="text" name="first_name" required />
-            <label for="lname">Last Name</label>
-            <input id="lname" class="text-input" type="text"  name="last_name" required />
-            <label for="email">Email Address</label>
-            <input id="email" class="text-input" type="email" name="email_address" required/>
-            <input class="join-button"  type="submit" value="Namaste"/>
-</form>
-    </section>
     <section class="class-times">
+        <section id="class-times">
+        <h2 id="times">Class times & levels</h2>
         <div id="beginners-times">
             <div class="beginners-times-heading">
             <h2>Beginners Times</h2>
@@ -128,6 +118,21 @@
         </table>
             </div>
         </div>
+        </section>
+    </section>
+    <section class="form-section">
+        <section id="form-section">
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
+            <label for="fname">First Name</label>
+            <input id="fname" class="text-input" type="text" name="first_name" required />
+            <label for="lname">Last Name</label>
+            <input id="lname" class="text-input" type="text"  name="last_name" required />
+            <label for="email">Email Address</label>
+            <input id="email" class="text-input" type="email" name="email_address" required/>
+            <input class="join-button"  type="submit" value="Namaste"/>
+        </form>
+        </section>
     </section>
     <section class="contact-us">
         <div id="contact-us">
