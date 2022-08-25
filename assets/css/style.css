@@ -9,7 +9,7 @@
 body {
     font-family: oswald, sans-serif;
     font-weight: 300;
-    color:gold
+    color:gold;
 }
 
 /* Heading and Logo */
@@ -67,7 +67,7 @@ h1, h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color: cardo;
+    color: goldenrod;
 }
 
 #hero-image {
