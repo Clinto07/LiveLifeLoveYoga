@@ -471,7 +471,7 @@ footer {
         text-align: center;
     }
 
-    .beginners-times-heading table, .advanced-times-heading table, .intermediate-times-heading table, {
+    .beginners-times-heading table, .advanced-times-heading table, .intermediate-times-heading table {
         text-align: center;
         padding: 0 20px;
     }
