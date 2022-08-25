@@ -20,10 +20,13 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="#">Contact Us</a>
+                    <a href="index.html" class="active">Contact Us</a>
                 </li>
                 <li>
-                    <a href="#">Signup</a>
+                    <a href="index.html" class="active">Class Times</a>
+                </li>
+                <li>
+                    <a href="index.html" class="active">Signup</a>
                 </li>
                 <li>
                     <a href="index.html" class="active">Home</a>
@@ -67,11 +70,64 @@
             </div>
         </div>
     </section>
-    <section>
-        sign up here
+    <section class="form-section">
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
+            <label for="fname">First Name</label>
+            <input id="fname" class="text-input" type="text" name="first_name" required />
+            <label for="lname">Last Name</label>
+            <input id="lname" class="text-input" type="text"  name="last_name" required />
+            <label for="email">Email Address</label>
+            <input id="email" class="text-input" type="email" name="email_address" required/>
+            <input class="join-button"  type="submit" value="Namaste"/>
+</form>
     </section>
-    <section>
-        Class times and age groups
+    <section class="class-times">
+        <div id="beginners-times">
+            <div class="beginners-times-heading">
+            <h2>Beginners Times</h2>
+            <hr>
+            <table>
+                <tr><th>Sunday</th><td>Closed</td></tr>
+                <tr><th>Monday</th><td>9am - 10am & 12pm - 1pm</td></tr>
+                <tr><th>Tuesday</th><td>Closed</td></tr>
+                <tr><th>Wednesday</th><td>9am - 10am & 12pm - 1pm</td></tr>
+                <tr><th>Thursday</th><td>Closed</td></tr>
+                <tr><th>Friday</th><td>Closed</td></tr>
+                <tr><th>Saturday</th><td>Closed</td></tr>
+            </table>
+            </div>
+        </div>
+        <div id="advanced-times">
+            <div class="advanced-times-heading">
+            <h2>advanced-times</h2>
+            <hr>
+            <table>
+                <tr><th>Sunday</th><td>7am - 9am & 2pm - 4pm</td></tr>
+                <tr><th>Monday</th><td>Closed</td></tr>
+                <tr><th>Tuesday</th><td>7am - 9am & 2pm - 4pm</td></tr>
+                <tr><th>Wednesday</th><td>Closed</td></tr>
+                <tr><th>Thursday</th><td>7am - 9am & 2pm - 4pm</td></tr>
+                <tr><th>Friday</th><td>7am - 9am & 2pm - 4pm></td></tr>
+                <tr><th>Saturday</th><td>Closed</td></tr>
+            </table>
+            </div>
+        </div>
+        <div id="intermediate-times">
+            <div class="intermediate-times-heading">
+            <h2>Intermediate-times</h2>
+            <hr>
+        <table>
+            <tr><th>Sunday</th><td>Closed</td></tr>
+            <tr><th>Monday</th><td>Closed</td></tr>
+            <tr><th>Tuesday</th><td>9am - 10am & 12pm - 1pm</td></tr>
+            <tr><th>Wednesday</th><td>Closed</td></tr>
+            <tr><th>Thursday</th><td>Closed</td></tr>
+            <tr><th>Friday</th><td>9am - 10am & 12pm - 1pm</td></tr>
+            <tr><th>Saturday</th><td>Closed</td></tr>
+        </table>
+            </div>
+        </div>
     </section>
     <footer>
         social links here
