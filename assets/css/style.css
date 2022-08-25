@@ -452,10 +452,6 @@ footer {
         padding: 0 20px;
     }
 
-    #photos {
-        column-count: 3;
-    }
-
     #class {
         width: 90%;
         height: 750px;
