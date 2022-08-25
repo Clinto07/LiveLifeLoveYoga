@@ -317,3 +317,24 @@ hr {
     margin: 0 auto;
     text-align: center;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: grey;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: goldenrod;
