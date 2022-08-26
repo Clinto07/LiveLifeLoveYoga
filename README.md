@@ -1,5 +1,7 @@
 # LiveLife LoveYoga
 
+[Link to Live Deployed Site!](https://clinto07.github.io/LiveLifeLoveYoga/index.html)
+
 livelifeloveyoga is a site that hopes to motivate the world and bring them together to practice yoga. The site will be targeted towards 3 class levels beginners, intermediate & advanced. LiveLifeLoveYoga will be useful to all skill levels of yoga class participants giving them a timetable, location & contact number for easy correspondence.
 
 https://raw.githubusercontent.com/Clinto07/LiveLifeLoveYoga/main/assets/images/Am%20I%20Responsive%20img.png
@@ -44,8 +46,11 @@ Future Proofing as traffic increases we could introduce live calender, pricing m
 All features of the site have been tested so the user will have a more fluid experience. All links have been checked for rederction location and have all passed. All all social media links have been checked for correct redirection and passed.
 all menu selections have been tested for redirection purpose and have passsed.
 
-Mockup Am I Resopnsive was used to check what screens look like
-(https://ui.dev/amiresponsive?url=https://clinto07.github.io/LiveLifeLoveYoga/index.html).
+There is trouble seting up viewable image links in README.md file so I put in raw url links to images.
+
+Mockup Am I Resopnsive was used to check what screens look like as seen in following ur.
+https://raw.githubusercontent.com/Clinto07/LiveLifeLoveYoga/main/assets/images/Am%20I%20Responsive%20img.png
+
 
 ### Validating
 
