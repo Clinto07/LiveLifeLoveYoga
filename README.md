@@ -2,7 +2,7 @@
 
 livelifeloveyoga is a site that hopes to motivate the world and bring them together to practice yoga. The site will be targeted towards 3 class levels beginners, intermediate & advanced. LiveLifeLoveYoga will be useful to all skill levels of yoga class participants giving them a timetable, location & contact number for easy correspondence.
 
-<img src= url(/workspace/LiveLifeLoveYoga/assets/images/Screenshot(1).png)>.
+<img src=url(https://ui.dev/amiresponsive?url=https://clinto07.github.io/LiveLifeLoveYoga/index.html)>
 
 ## Navigation bar
 
