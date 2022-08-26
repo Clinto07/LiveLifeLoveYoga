@@ -2,6 +2,8 @@
 
 livelifeloveyoga is a site that hopes to motivate the world and bring them together to practice yoga. The site will be targeted towards 3 class levels beginners, intermediate & advanced. LiveLifeLoveYoga will be useful to all skill levels of yoga class participants giving them a timetable, location & contact number for easy correspondence.
 
+<img src= url(/workspace/LiveLifeLoveYoga/assets/images/Screenshot(1).png)>.
+
 ## Navigation bar
 
 Features on both pages of this project. The full responsive navigation bar includes links to homepage, class times, contact us & a link to a stand alone sign up page. It is identical on every page to allow for easy navigation.
@@ -41,6 +43,9 @@ Future Proofing as traffic increases we could introduce live calender, pricing m
 
 All features of the site have been tested so the user will have a more fluid experience. All links have been checked for rederction location and have all passed. All all social media links have been checked for correct redirection and passed.
 all menu selections have been tested for redirection purpose and have passsed.
+
+Mockup Am I Resopnsive was used to check what screens look like
+(https://ui.dev/amiresponsive?url=https://clinto07.github.io/LiveLifeLoveYoga/index.html).
 
 ### Validating
 
