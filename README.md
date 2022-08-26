@@ -51,3 +51,16 @@ all code is now 100% validated on both validator options.
 #### Deployment
 
 The Website was deployed to github pages. The steps to deploy are as follows: In the github repository, Navigate to the Settings tab From the source section drop-down menu, select the master Branch once the master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate successful deplotment. The live link can be found here [LIVELIFELOVEYOGA](https://clinto07.github.io/livelifeloveyoga/index.html).
+
+##### Credits
+
+Images were used from [pexels](https://www.pexels.com/).
+
+Fonts used from [Font Awesome](https://fontawesome.com/).
+
+Inspirations came from [Love Running Project](https://clinto07.github.io/love-running/).
+
+Sign up form submit location used from [Code Institute](https://formdump.codeinstitute.net/).
+
+Social Media link Location used from [Twitter](https://twitter.com/), [YouTube](httpa://youtube.com/)
+[Facebook](https://facebook.com/) and [Instagram](https://instagram.com/).
